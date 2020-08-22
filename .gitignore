@@ -16,4 +16,4 @@
 
 !.gitignore
 !.gitattributes
-!.uproject
+!*.uproject
